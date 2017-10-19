@@ -1,7 +1,7 @@
 interface Animal 
 {
-  public String getSound();
-  public String getType();
+  public void sound();
+  public void type();
 }
 //class Chick implements Animal
 //{
