@@ -17,3 +17,4 @@ class Chick implements Animal
      public String getSound(){return getSound;}     
      public String getType(){return getType;}
 }
+ 
