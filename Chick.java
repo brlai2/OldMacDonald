@@ -1,4 +1,3 @@
-//Chick bob = new Chick();
 class Chick implements Animal
 {     
      private String myType;     
@@ -17,20 +16,4 @@ class Chick implements Animal
      }      
      public String getSound(){return getSound;}     
      public String getType(){return getType;}
-//      public int getType()
-//      {
-//        return myType;
-//      }
-//      public int getSound()
-//      {
-//        return mySound;
-//      }
-//      public setType(String type)
-//      {
-//        myType = String setType;
-//      }
-//      public setSound(String set)
-//      {
-//        mySound = String setSound;
-//      }
 }
