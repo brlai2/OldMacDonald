@@ -17,3 +17,4 @@ class NamedCow extends Cow
      public String getType(){return myType;} 
      public String getName(){return myName;} 
 }
+ 
